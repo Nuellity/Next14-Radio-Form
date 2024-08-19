@@ -6,7 +6,7 @@ function HomeScreen() {
     <div className="flex flex-col items-center h-screen pt-20 gap-x-10">
       <div className="bg-white h-[20em] w-[23em] box-shadow rounded-lg px-4 responsive-mx">
         <div className="py-2">
-          <RadioButton title="All Pages" />
+          <RadioButton title="All pages" />
         </div>
         <hr className="pb-2 border-t-1 border-gray-200" />
         <div>
